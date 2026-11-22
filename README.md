@@ -123,6 +123,15 @@ Currently exploring **LLM applications, document processing, and embeddings**, w
 
 </div>
 
+### 📊 GitHub contributions
+
+<div align="center">
+  <a href="https://github.com/amol004">
+    <img src="https://streak-stats.demolab.com/?user=amol004&amp;theme=tokyonight&amp;hide_border=true&amp;timezone=Asia%2FKolkata" alt="GitHub total contributions, current streak, and longest streak" />
+  </a>
+</div>
+
+
 ---
 
 <div align="center">
