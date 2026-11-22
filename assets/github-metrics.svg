@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub activity</title>
+  <desc id="desc">Explore Amol's GitHub contributions and public repositories.</desc>
+  <rect x="1" y="1" width="598" height="358" rx="14" fill="#101c2a" stroke="#2b4254" stroke-width="2"/>
+  <text x="32" y="46" fill="#eff6fc" font-family="Arial,sans-serif" font-size="23" font-weight="700">GitHub activity</text>
+  <text x="32" y="72" fill="#92adbd" font-family="Arial,sans-serif" font-size="14">Projects, experiments, and ongoing learning</text>
+  <rect x="32" y="101" width="536" height="152" rx="10" fill="#152b3a" stroke="#2d4a5c"/>
+  <text x="54" y="142" fill="#6cdbc6" font-family="Arial,sans-serif" font-size="15" font-weight="700">AMOL004 ON GITHUB</text>
+  <text x="54" y="178" fill="#eaf2f8" font-family="Arial,sans-serif" font-size="21" font-weight="700">Explore my contribution timeline</text>
+  <text x="54" y="207" fill="#a6bac8" font-family="Arial,sans-serif" font-size="14">View public repositories and recent work</text>
+  <path d="M32 288h536" stroke="#304a5b"/>
+  <text x="32" y="319" fill="#7f9cad" font-family="Arial,sans-serif" font-size="14">GITHUB.COM/AMOL004</text>
+</svg>
