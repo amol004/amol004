@@ -18,7 +18,7 @@ I'm Amol, a data science and AI practitioner. My work spans exploratory analysis
 Currently exploring **LLM applications, document processing, and embeddings**, while building my skills across data science and analytics. I'm interested in Data Analyst, Data Scientist, and Generative AI opportunities.
 
 <div align="center">
-  <a href="#technical-toolkit"><img src="https://raw.githubusercontent.com/amol004/amol004/main/assets/focus.svg" alt="Areas of focus: generative AI and NLP, machine learning, deep learning and analytics" width="49%" /></a>
+  <a href="#technical-skills--toolkit"><img src="https://raw.githubusercontent.com/amol004/amol004/main/assets/focus.svg" alt="Areas of focus: generative AI and NLP, machine learning, deep learning and analytics" width="49%" /></a>
   <a href="https://github.com/amol004"><img src="https://raw.githubusercontent.com/amol004/amol004/main/assets/github-metrics.svg" alt="GitHub activity and public projects" width="49%" /></a>
 </div>
 
