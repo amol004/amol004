@@ -4,7 +4,7 @@
 
 **Data science &nbsp;•&nbsp; Machine learning &nbsp;•&nbsp; Generative AI**
 
-I enjoy exploring data, building models, and turning results into clear, useful stories.
+“I turn data into insights and build AI solutions that solve real-world pr
 
 [![GitHub](https://img.shields.io/badge/GitHub-amol004-182637?style=flat-square&logo=github&logoColor=white)](https://github.com/amol004)
 [![Explore repositories](https://img.shields.io/badge/Explore-Repositories-1c8278?style=flat-square&logo=github&logoColor=white)](https://github.com/amol004?tab=repositories)
@@ -13,7 +13,7 @@ I enjoy exploring data, building models, and turning results into clear, useful 
 
 ### About
 
-I'm Amol, a data science and AI practitioner with a civil engineering background. My work spans exploratory analysis, business dashboards, predictive models, computer vision, and adapting language models for customer support.
+I'm Amol, a data science and AI practitioner. My work spans exploratory analysis, business dashboards, predictive models, computer vision, and adapting language models for customer support.
 
 Currently exploring **LLM applications, document processing, and embeddings**, while building my skills across data science and analytics. I'm interested in Data Analyst, Data Scientist, and Generative AI opportunities.
 
