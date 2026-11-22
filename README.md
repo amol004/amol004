@@ -126,6 +126,6 @@ Currently exploring **LLM applications, document processing, and embeddings**, w
 ---
 
 <div align="center">
-  <sub>Outside of data: wildlife photography · travel · fitness</sub><br /><br />
+
   <strong><a href="https://github.com/amol004?tab=repositories">Explore all repositories →</a></strong>
 </div>
