@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" role="img" aria-labelledby="title desc">
+  <title id="title">Areas of focus</title>
+  <desc id="desc">Generative AI and NLP, machine learning, deep learning, and data analytics.</desc>
+  <rect x="1" y="1" width="598" height="358" rx="14" fill="#101c2a" stroke="#2b4254" stroke-width="2"/>
+  <text x="32" y="46" fill="#eff6fc" font-family="Arial,sans-serif" font-size="23" font-weight="700">Areas of focus</text>
+  <text x="32" y="72" fill="#92adbd" font-family="Arial,sans-serif" font-size="14">Methods explored across my projects</text>
+  <g font-family="Arial,sans-serif">
+    <circle cx="42" cy="114" r="6" fill="#66dfc8"/>
+    <text x="62" y="119" fill="#eaf2f8" font-size="17" font-weight="700">Generative AI &amp; NLP</text>
+    <text x="62" y="141" fill="#a6bac8" font-size="14">LLM fine-tuning · embeddings · text analysis</text>
+    <circle cx="42" cy="183" r="6" fill="#81b5ff"/>
+    <text x="62" y="188" fill="#eaf2f8" font-size="17" font-weight="700">Machine learning</text>
+    <text x="62" y="210" fill="#a6bac8" font-size="14">Regression · classification · clustering</text>
+    <circle cx="42" cy="252" r="6" fill="#bda4ff"/>
+    <text x="62" y="257" fill="#eaf2f8" font-size="17" font-weight="700">Deep learning &amp; analytics</text>
+    <text x="62" y="279" fill="#a6bac8" font-size="14">Computer vision · dashboards · data storytelling</text>
+  </g>
+  <path d="M32 317h536" stroke="#304a5b"/>
+  <text x="32" y="342" fill="#7f9cad" font-family="Arial,sans-serif" font-size="13">FROM EXPLORATION TO COMMUNICATING RESULTS</text>
+</svg>
