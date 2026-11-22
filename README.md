@@ -65,16 +65,63 @@ Currently exploring **LLM applications, document processing, and embeddings**, w
 
 **More work:** [Netflix content clustering](https://github.com/amol004/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING) · [Mobile price classification](https://github.com/amol004/Flipkart-Mobile-Price-Range-Prediction) · [Supply chain dashboard](https://github.com/amol004/DataCo-Analysis-Group-Supply-Chain-Efficiency-Analysis-MS-Excel)
 
-### Technical toolkit
+### 🛠️ Technical skills & toolkit
 
-| Area | Technologies and methods |
-| --- | --- |
-| **Languages & data** | Python · SQL · pandas · NumPy · Excel |
-| **Machine learning** | scikit-learn · XGBoost · regression · classification · clustering · feature engineering |
-| **Deep learning & vision** | TensorFlow · Keras · PyTorch · CNNs · OpenCV |
-| **Generative AI & NLP** | Hugging Face Transformers · PEFT · LoRA / QLoRA · Ollama · embeddings · text processing |
-| **Analytics & applications** | Power BI · DAX · Matplotlib · Seaborn · Plotly · Streamlit · Gradio |
-| **Workflow** | Git · Docker · MLflow · Google Colab |
+<div align="center">
+
+#### 🤖 Generative AI & NLP
+
+<p>
+  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
+  <img src="https://img.shields.io/badge/PEFT%20%2F%20QLoRA-Fine--Tuning-8A2BE2?style=flat-square" alt="PEFT and QLoRA fine-tuning" />
+  <img src="https://img.shields.io/badge/LangChain-LLM%20Applications-1C3C3C?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Storage-F4B400?style=flat-square" alt="ChromaDB vector storage" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-333333?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Gemini-LLM%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/Embeddings-Semantic%20Search-376996?style=flat-square" alt="Embeddings and semantic search" />
+  <img src="https://img.shields.io/badge/NLP-Text%20Processing-5B78B5?style=flat-square" alt="Natural language processing" />
+</p>
+
+#### 🧠 Machine learning & deep learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-246858?style=flat-square" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+#### 📊 Analytics & visualization
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-Database%20Queries-336791?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-Data%20Analysis-F2C811?style=flat-square" alt="DAX" />
+  <img src="https://img.shields.io/badge/Excel-Analysis-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Matplotlib-Visualizations-11557C?style=flat-square" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?style=flat-square" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+</p>
+
+#### ⚙️ Applications & development
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab" />
+</p>
+
+</div>
 
 ---
 
