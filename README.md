@@ -4,7 +4,7 @@
 
 **Data science &nbsp;•&nbsp; Machine learning &nbsp;•&nbsp; Generative AI**
 
-“I turn data into insights and build AI solutions that solve real-world pr
+I turn data into insights and build AI solutions that solve real-world problems
 
 [![GitHub](https://img.shields.io/badge/GitHub-amol004-182637?style=flat-square&logo=github&logoColor=white)](https://github.com/amol004)
 [![Explore repositories](https://img.shields.io/badge/Explore-Repositories-1c8278?style=flat-square&logo=github&logoColor=white)](https://github.com/amol004?tab=repositories)
