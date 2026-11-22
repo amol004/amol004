@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Amol Thakur — Data, Machine Learning, Generative AI</title>
+  <desc id="desc">A portfolio of data science, analytics, machine learning, and generative AI projects.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101c2a"/><stop offset="1" stop-color="#142c3e"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#53ddc4"/><stop offset="1" stop-color="#81b5ff"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <path d="M774 36h367M774 76h367M774 116h367M774 156h367M774 196h367M774 236h367M774 276h367M804 20v260M864 20v260M924 20v260M984 20v260M1044 20v260M1104 20v260" stroke="#70b5cc" stroke-opacity=".1"/>
+  <path d="M806 208l58-44 60 21 60-72 60 23 61-74" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+  <g fill="#7de3d0"><circle cx="806" cy="208" r="5"/><circle cx="864" cy="164" r="5"/><circle cx="924" cy="185" r="5"/><circle cx="984" cy="113" r="5"/><circle cx="1044" cy="136" r="5"/><circle cx="1105" cy="62" r="5"/></g>
+  <text x="70" y="68" fill="#72ddca" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4">DATA  /  MACHINE LEARNING  /  GENERATIVE AI</text>
+  <text x="68" y="143" fill="#f1f7ff" font-family="Arial,sans-serif" font-size="58" font-weight="700">Amol Thakur</text>
+  <text x="70" y="193" fill="#b6c9d9" font-family="Arial,sans-serif" font-size="23">Exploring data. Building models. Sharing what I learn.</text>
+  <rect x="70" y="229" width="220" height="4" rx="2" fill="url(#accent)"/>
+  <text x="70" y="264" fill="#8ea9bd" font-family="Arial,sans-serif" font-size="16">DATA SCIENCE  ·  ANALYTICS  ·  AI ENGINEERING</text>
+</svg>
