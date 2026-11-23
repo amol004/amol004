@@ -65,6 +65,8 @@ Currently exploring **LLM applications, document processing, and embeddings**, w
 
 **More work:** [Netflix content clustering](https://github.com/amol004/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING) · [Mobile price classification](https://github.com/amol004/Flipkart-Mobile-Price-Range-Prediction) · [Supply chain dashboard](https://github.com/amol004/DataCo-Analysis-Group-Supply-Chain-Efficiency-Analysis-MS-Excel)
 
+<a name="technical-skills--toolkit"></a>
+
 ### 🛠️ Technical skills & toolkit
 
 <div align="center">
