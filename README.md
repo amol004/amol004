@@ -15,7 +15,9 @@ I turn data into insights and build AI solutions that solve real-world problems
 
 I'm Amol, a data science and AI practitioner. My work spans exploratory analysis, business dashboards, predictive models, computer vision, and adapting language models for customer support.
 
-Currently exploring **LLM applications, document processing, and embeddings**, while building my skills across data science and analytics. I'm interested in Data Analyst, Data Scientist, and Generative AI opportunities.
+Currently exploring **LLM applications, document processing, and embeddings**, while building my skills across data science and analytics.
+
+**Open to opportunities:** Data Analyst, Data Scientist, Machine Learning Engineer, Generative AI / AI Engineer, Python Developer, and Data Engineer roles.
 
 <div align="center">
   <a href="#technical-skills--toolkit"><img src="https://raw.githubusercontent.com/amol004/amol004/main/assets/focus.svg" alt="Areas of focus: generative AI and NLP, machine learning, deep learning and analytics" width="49%" /></a>
