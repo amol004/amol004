@@ -64,63 +64,22 @@ Currently exploring **LLM applications, document processing, and embeddings**, w
 
 <a name="technical-skills--toolkit"></a>
 
-### 🛠️ Technical skills & toolkit
+<picture>
+  <source media="(max-width: 550px)" srcset="assets/toolkit-map-mobile.webp">
+  <img src="assets/toolkit-map.webp" width="100%" alt="Technical skills and toolkit map. The four areas are generative AI and NLP, machine learning and deep learning, analytics and visualization, and applications and development. The full list is available below.">
+</picture>
 
-<div align="center">
+**See it in the repos** · [IndustryGPT](https://github.com/amol004/IndustryGPT-Specialised-LLM-Bot-Using-Pre-Trained-Models) · [DeepFER](https://github.com/amol004/DeepFER-Facial-Emotion-Recognition-Using-Deep-Learning) · [FinInsight](https://github.com/amol004/FinInsight-Group-Data-Analysis-PowerBI) · [Voyage Analytics](https://github.com/amol004/Voyage-Analytics-Integrating-MLOps-in-Travel)
 
-#### 🤖 Generative AI & NLP
+<details>
+<summary>Toolkit as text</summary>
 
-<p>
-  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face Transformers" />
-  <img src="https://img.shields.io/badge/PEFT%20%2F%20QLoRA-Fine--Tuning-8A2BE2?style=flat-square" alt="PEFT and QLoRA fine-tuning" />
-  <img src="https://img.shields.io/badge/LangChain-LLM%20Applications-1C3C3C?style=flat-square" alt="LangChain" />
-  <img src="https://img.shields.io/badge/ChromaDB-Vector%20Storage-F4B400?style=flat-square" alt="ChromaDB vector storage" />
-  <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-333333?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Gemini-LLM%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" />
-  <img src="https://img.shields.io/badge/Embeddings-Semantic%20Search-376996?style=flat-square" alt="Embeddings and semantic search" />
-  <img src="https://img.shields.io/badge/NLP-Text%20Processing-5B78B5?style=flat-square" alt="Natural language processing" />
-</p>
+- **Generative AI & NLP** — Hugging Face Transformers, PEFT / QLoRA, Ollama, Gemini API, LangChain, NLP, embeddings, ChromaDB.
+- **Machine learning & deep learning** — Python, pandas, NumPy, scikit-learn, XGBoost, PyTorch, TensorFlow, Keras, OpenCV.
+- **Analytics & visualization** — SQL, Excel, Power BI, DAX, Tableau, Matplotlib, Seaborn, Plotly.
+- **Applications & development** — FastAPI, Gradio, Streamlit, Docker, MLflow, Git, Google Colab.
 
-#### 🧠 Machine learning & deep learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/XGBoost-246858?style=flat-square" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
-
-#### 📊 Analytics & visualization
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-Database%20Queries-336791?style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX-Data%20Analysis-F2C811?style=flat-square" alt="DAX" />
-  <img src="https://img.shields.io/badge/Excel-Analysis-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/Tableau-Visualization-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Matplotlib-Visualizations-11557C?style=flat-square" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0?style=flat-square" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Plotly-Interactive%20Charts-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
-</p>
-
-#### ⚙️ Applications & development
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white" alt="Gradio" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab" />
-</p>
-
-</div>
+</details>
 
 ---
 
