@@ -1,15 +1,15 @@
-<div align="center">
+<a href="https://github.com/amol004?tab=overview&amp;from=2026-11-01&amp;to=2026-11-30">
+<picture>
+  <source media="(max-width: 550px)" srcset="assets/isometric-metrics-mobile.webp">
+  <img src="assets/isometric-metrics.webp" width="100%" alt="Amol Thakur’s isometric GitHub contribution calendar, August 31 to November 24, 2026. The November 24 snapshot shows 874 contributions, 275 active days, and 24 public repositories.">
+</picture>
+</a>
 
-![Amol Thakur — Data, Machine Learning, Generative AI](https://raw.githubusercontent.com/amol004/amol004/main/assets/header.svg)
-
-**Data science &nbsp;•&nbsp; Machine learning &nbsp;•&nbsp; Generative AI**
+**Data science · Machine learning · Generative AI**
 
 I turn data into insights and build AI solutions that solve real-world problems
 
-[![GitHub](https://img.shields.io/badge/GitHub-amol004-182637?style=flat-square&logo=github&logoColor=white)](https://github.com/amol004)
-[![Explore repositories](https://img.shields.io/badge/Explore-Repositories-1c8278?style=flat-square&logo=github&logoColor=white)](https://github.com/amol004?tab=repositories)
-
-</div>
+[Contribution activity](https://github.com/amol004?tab=overview&from=2026-11-01&to=2026-11-30) · [Technical skills](#technical-skills--toolkit)
 
 ### About
 
@@ -18,11 +18,6 @@ I'm Amol, a data science and AI practitioner. My work spans exploratory analysis
 Currently exploring **LLM applications, document processing, and embeddings**, while building my skills across data science and analytics.
 
 **Open to opportunities:** Data Analyst, Data Scientist, Machine Learning Engineer, Generative AI / AI Engineer, Python Developer, and Data Engineer roles.
-
-<div align="center">
-  <a href="#technical-skills--toolkit"><img src="https://raw.githubusercontent.com/amol004/amol004/main/assets/focus.svg" alt="Areas of focus: generative AI and NLP, machine learning, deep learning and analytics" width="49%" /></a>
-  <a href="https://github.com/amol004"><img src="https://raw.githubusercontent.com/amol004/amol004/main/assets/github-metrics.svg" alt="GitHub activity and public projects" width="49%" /></a>
-</div>
 
 ### Selected work
 
@@ -126,15 +121,6 @@ Currently exploring **LLM applications, document processing, and embeddings**, w
 </p>
 
 </div>
-
-### 📊 GitHub contributions
-
-<div align="center">
-  <a href="https://github.com/amol004">
-    <img src="https://streak-stats.demolab.com/?user=amol004&amp;theme=tokyonight&amp;hide_border=true&amp;timezone=Asia%2FKolkata" alt="GitHub total contributions, current streak, and longest streak" />
-  </a>
-</div>
-
 
 ---
 
