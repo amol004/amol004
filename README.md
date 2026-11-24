@@ -27,6 +27,8 @@ Currently exploring **LLM applications, document processing, and embeddings**, w
       <strong>🤖 <a href="https://github.com/amol004/IndustryGPT-Specialised-LLM-Bot-Using-Pre-Trained-Models">IndustryGPT</a></strong><br />
       Fine-tuned TinyLlama for retail support using 4-bit quantization and LoRA, with a Gradio chat interface.<br /><br />
       <sub>Hugging Face · PyTorch · PEFT · QLoRA · Gradio</sub>
+      <br /><br /><a href="https://colab.research.google.com/github/amol004/IndustryGPT-Specialised-LLM-Bot-Using-Pre-Trained-Models/blob/main/IndustryGPT_Specialized_LLM_Bot_Using_Pre_Trained_Models.ipynb"><strong>Open notebook in Colab ↗</strong></a><br />
+      <sub>Run the notebook with a GPU to launch the Gradio chat.</sub>
     </td>
     <td width="50%" valign="top">
       <strong>📚 <a href="https://github.com/amol004/Autonomous-Deep-Research-Multi-Agent-System">AI research assistant</a></strong><br />
