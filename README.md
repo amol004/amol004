@@ -19,48 +19,27 @@ Currently exploring **LLM applications, document processing, and embeddings**, w
 
 **Open to opportunities:** Data Analyst, Data Scientist, Machine Learning Engineer, Generative AI / AI Engineer, Python Developer, and Data Engineer roles.
 
-### Selected work
+<a name="selected-work"></a>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🤖 <a href="https://github.com/amol004/IndustryGPT-Specialised-LLM-Bot-Using-Pre-Trained-Models">IndustryGPT</a></strong><br />
-      Fine-tuned TinyLlama for retail support using 4-bit quantization and LoRA, with a Gradio chat interface.<br /><br />
-      <sub>Hugging Face · PyTorch · PEFT · QLoRA · Gradio</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>📚 <a href="https://github.com/amol004/Autonomous-Deep-Research-Multi-Agent-System">AI research assistant</a></strong><br />
-      Exploring conversational assistants, custom tools, document reading, chunking, and embeddings.<br /><br />
-      <sub>Python · LLM APIs · Ollama · MLX · embeddings</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🛍️ <a href="https://github.com/amol004/Integrated-Retail-Analytics-for-Store-Optimization-Advanced-Machine-Learning">Retail analytics</a></strong><br />
-      Analyzed store sales, seasonal trends, anomalies, segmentation, and demand forecasting.<br /><br />
-      <sub>Python · pandas · time series · K-means</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>😊 <a href="https://github.com/amol004/DeepFER-Facial-Emotion-Recognition-Using-Deep-Learning">Facial emotion recognition</a></strong><br />
-      Built a convolutional neural network for seven-category facial expression classification.<br /><br />
-      <sub>TensorFlow · Keras · CNN · OpenCV</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>🚲 <a href="https://github.com/amol004/Seoul-Bike-Sharing-Demand-Prediction">Seoul bike demand</a></strong><br />
-      Compared regression models using time and weather features to estimate bicycle rental demand.<br /><br />
-      <sub>Regression · feature engineering · scikit-learn</sub>
-    </td>
-    <td width="50%" valign="top">
-      <strong>🏦 <a href="https://github.com/amol004/FinInsight-Group-Data-Analysis-PowerBI">Banking dashboard</a></strong><br />
-      Built an interactive view of banking transactions, customer profiles, and financial trends.<br /><br />
-      <sub>Power BI · DAX · data modeling</sub>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(max-width: 550px)" srcset="assets/project-atlas-2026-mobile.webp">
+  <img src="assets/project-atlas-2026.webp" width="100%" alt="2026 Project Atlas. IndustryGPT adapts TinyLlama for retail support. DeepFER classifies seven facial expressions. CSAT prediction models satisfaction scores from e-commerce support interactions.">
+</picture>
 
-**More work:** [Netflix content clustering](https://github.com/amol004/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING) · [Mobile price classification](https://github.com/amol004/Flipkart-Mobile-Price-Range-Prediction) · [Supply chain dashboard](https://github.com/amol004/DataCo-Analysis-Group-Supply-Chain-Efficiency-Analysis-MS-Excel)
+**Open the notebooks** · [IndustryGPT](https://github.com/amol004/IndustryGPT-Specialised-LLM-Bot-Using-Pre-Trained-Models/blob/main/IndustryGPT_Specialized_LLM_Bot_Using_Pre_Trained_Models.ipynb) · [DeepFER](https://github.com/amol004/DeepFER-Facial-Emotion-Recognition-Using-Deep-Learning/blob/main/DeepFER_Facial_Emotion_Recognition_Using_Deep_Learning.ipynb) · [CSAT prediction](https://github.com/amol004/E-Commerce-Customer-Satisfaction-Score-Prediction-Deep-Learning/blob/main/E_Commerce_Customer_Satisfaction_Score_Prediction.ipynb)
+
+<picture>
+  <source media="(max-width: 550px)" srcset="assets/featured-workbench-2026-mobile.webp">
+  <img src="assets/featured-workbench-2026.webp" width="100%" alt="Featured Workbench. Local document embeddings, October 2026. Extract text from a PDF, split it into chunks, and generate vectors with Ollama.">
+</picture>
+
+After setup, run this from the repository root and press Enter to use the included sample PDF.
+
+```bash
+python embedding.py
+```
+
+[Setup instructions](https://github.com/amol004/Autonomous-Deep-Research-Multi-Agent-System#local-setup) · [Sample PDF](https://github.com/amol004/Autonomous-Deep-Research-Multi-Agent-System/blob/main/Day05%28Document_reading%29/Data/sample.pdf) · [Embedding script](https://github.com/amol004/Autonomous-Deep-Research-Multi-Agent-System/blob/main/embedding.py)
 
 <a name="technical-skills--toolkit"></a>
 
