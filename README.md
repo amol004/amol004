@@ -68,29 +68,20 @@ Currently exploring **LLM applications, document processing, and embeddings**, w
 
 <picture>
   <source media="(max-width: 550px)" srcset="assets/toolkit-map-mobile.webp">
-  <img src="assets/toolkit-map.webp" width="100%" alt="Technical skills and toolkit map. The four areas are generative AI and NLP, machine learning and deep learning, analytics and visualization, and applications and development. The full list is available below.">
+  <img src="assets/toolkit-map.webp" width="100%" alt="Technical skills and toolkit map, grouped by field. The full list is available below.">
 </picture>
-
-<p align="center">
-  🤖 <strong>OpenAI API</strong> ·
-  <img src="https://cdn.simpleicons.org/anthropic/D97757" alt="Anthropic" height="20"> <strong>Claude</strong> ·
-  <img src="https://cdn.simpleicons.org/langgraph/7FC8FF" alt="LangGraph" height="20"> <strong>LangGraph</strong> ·
-  <img src="https://cdn.simpleicons.org/crewai/FF5A50" alt="CrewAI" height="20"> <strong>CrewAI</strong> ·
-  🧠 <strong>AutoGen</strong> ·
-  <img src="https://cdn.simpleicons.org/modelcontextprotocol/FFFFFF" alt="Model Context Protocol" height="20"> <strong>MCP</strong> ·
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face" height="20"> <strong>Datasets</strong> ·
-  🔍 <strong>FAISS</strong>
-</p>
 
 **See it in the repos** · [IndustryGPT](https://github.com/amol004/IndustryGPT-Specialised-LLM-Bot-Using-Pre-Trained-Models) · [DeepFER](https://github.com/amol004/DeepFER-Facial-Emotion-Recognition-Using-Deep-Learning) · [FinInsight](https://github.com/amol004/FinInsight-Group-Data-Analysis-PowerBI) · [Voyage Analytics](https://github.com/amol004/Voyage-Analytics-Integrating-MLOps-in-Travel)
 
 <details>
 <summary>Toolkit as text</summary>
 
-- **Generative AI & NLP** — Hugging Face Transformers and Datasets, PEFT / QLoRA, Ollama, Gemini API, OpenAI API, Anthropic Claude, LangChain, LangGraph, CrewAI, AutoGen, MCP, NLP, embeddings, ChromaDB, and FAISS.
+- **Models, APIs & fine-tuning** — Hugging Face Transformers, Datasets, Hub and Accelerate; PEFT / QLoRA; Ollama; Google Generative AI SDK / Gemini API; OpenAI SDK / API; Anthropic SDK / Claude; Azure OpenAI SDK; AWS Bedrock SDK.
+- **Agents & orchestration** — LangChain, LangChain-OpenAI, LangGraph, CrewAI, AutoGen, LlamaIndex, Semantic Kernel, Google ADK, MCP, A2A, LangSmith, Guardrails AI.
+- **Retrieval & databases** — NLP, embeddings, ChromaDB, FAISS, Pinecone, Weaviate, PostgreSQL / pgvector.
 - **Machine learning & deep learning** — Python, pandas, NumPy, scikit-learn, XGBoost, PyTorch, TensorFlow, Keras, OpenCV.
-- **Analytics & visualization** — SQL, Excel, Power BI, DAX, Tableau, Matplotlib, Seaborn, Plotly.
-- **Applications & development** — FastAPI, Gradio, Streamlit, Docker, MLflow, Git, Google Colab.
+- **Analytics & visualization** — SQL, Excel, Power BI, DAX, Tableau, Matplotlib, Seaborn, Plotly, Databricks, PySpark.
+- **Applications & development** — FastAPI, Flask, Gradio, Streamlit, Docker, Kubernetes, MLflow, Git, Google Colab.
 
 </details>
 
@@ -100,3 +91,4 @@ Currently exploring **LLM applications, document processing, and embeddings**, w
 
   <strong><a href="https://github.com/amol004?tab=repositories">Explore all repositories →</a></strong>
 </div>
+
